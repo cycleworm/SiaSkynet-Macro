@@ -2,10 +2,12 @@
 powered by [Sia Skynet](https://www.siasky.net)
 
 ### Link to Website
-[Sia Skynet Macro]()
+[Sia Skynet Macro](https://siasky.net/GADUnu3RjXa6N2vG9p9lXB0u_MoE00M-dRyDKP4cDnOpDg/index.html)
 
 ### Demo Video
-[Video URL](https://siasky.net/_AHk_1VDDtCffXNqm0-ExxH_PtPQZr29ZyWnEj4rwq7C6g)
+[Skylink Video URL](https://siasky.net/_AHk_1VDDtCffXNqm0-ExxH_PtPQZr29ZyWnEj4rwq7C6g)
+![Gif of Demo Video](https://github.com/cycleworm/SiaSkynet-Macro/blob/master/Website/assets/img/SiaSkynetMacroDemo.gif)
+
 
 ### **Sia Skynet Macro** is also available on the [Skynet Appstore](https://skynethub.io/_B3VrECGOHPEAFknVQwj_vWsyaX_8iIRuB_TL09cuj9uZQ/index.html#/apps/utilities).
 
