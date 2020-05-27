@@ -7,7 +7,7 @@ powered by [Sia Skynet](https://www.siasky.net)
 ### Demo Video
 [Video URL]()
 
-### **Sia Skynet Macro** is also available on the [Skynet Appstore] tbd(https://skynethub.io/_B3VrECGOHPEAFknVQwj_vWsyaX_8iIRuB_TL09cuj9uZQ/index.html#/apps/utilities).
+### **Sia Skynet Macro** is also available on the [Skynet Appstore](https://skynethub.io/_B3VrECGOHPEAFknVQwj_vWsyaX_8iIRuB_TL09cuj9uZQ/index.html#/apps/utilities).
 
 ### Direct download link to the Excel Template + Macro -> [Link](https://siasky.net/DABhLbahVnVXfAg0FqWkc8m2sb0IS3oqiusk8xdz99XG2A)
 
