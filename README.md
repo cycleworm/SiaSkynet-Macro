@@ -5,7 +5,7 @@ powered by [Sia Skynet](https://www.siasky.net)
 [Sia Skynet Macro]()
 
 ### Demo Video
-[Video URL]()
+[Video URL](https://siasky.net/_AHk_1VDDtCffXNqm0-ExxH_PtPQZr29ZyWnEj4rwq7C6g)
 
 ### **Sia Skynet Macro** is also available on the [Skynet Appstore](https://skynethub.io/_B3VrECGOHPEAFknVQwj_vWsyaX_8iIRuB_TL09cuj9uZQ/index.html#/apps/utilities).
 
